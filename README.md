@@ -1,15 +1,14 @@
 # Python-programming
 Learn to the python programming for the beginner
 
-1. install and use
-tools and environment
+1. install the environment and tools
 
-2. totuial and imitate
+2. read the totuial and imitate codes
 
-3. feedback and ask questions
+3. ask others' questions and get the feedback
 
-4. imporve codes and read books
+4. imporve codes and read more books
 
-5. practice a small project
+5. practice a small project by yourself
 
 6. work by python
